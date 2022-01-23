@@ -1,0 +1,7 @@
+D:\Downloads\Test\Server\Server\bin\Debug\Server.exe.config
+D:\Downloads\Test\Server\Server\bin\Debug\Server.exe
+D:\Downloads\Test\Server\Server\bin\Debug\Server.pdb
+D:\Downloads\Test\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Downloads\Test\Server\Server\obj\Debug\Server.exe
+D:\Downloads\Test\Server\Server\obj\Debug\Server.pdb
+D:\Downloads\Test\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
